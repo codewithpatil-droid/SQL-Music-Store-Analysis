@@ -74,15 +74,10 @@ The project uses a **Music Store Database** (like Chinook) containing tables suc
 │   │
 │   └── all_queries_combined.sql
 │
-├── outputs/
-│   ├── easy_queries_results.csv
-│   ├── moderate_queries_results.csv
-│   └── advanced_queries_results.csv
+
 │
 ├── screenshots/
 │   ├── ERD.png
-│   
-│
-└── project_summary.txt```
+```
 
 
