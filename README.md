@@ -47,7 +47,7 @@ The project uses a **Music Store Database** (like Chinook) containing tables suc
 ---
 
 ## 📁 Project Structure
-SQL-Music-Store-Analysis/
+```SQL-Music-Store-Analysis/
 │
 ├── README.md
 ├── .gitignore
@@ -83,6 +83,6 @@ SQL-Music-Store-Analysis/
 │   ├── ERD.png
 │   
 │
-└── project_summary.txt
+└── project_summary.txt```
 
 
