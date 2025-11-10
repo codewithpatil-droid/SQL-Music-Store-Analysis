@@ -79,5 +79,15 @@ The project uses a **Music Store Database** (like Chinook) containing tables suc
 ├── screenshots/
 │   ├── ERD.png
 ```
+---
+
+## 👤 Author
+
+**Pratik Patil**  
+🎓 Aspiring Data Analyst  
+📍 Mumbai, India  
+🔗 [LinkedIn Profile](www.linkedin.com/in/babasaheb-patil)  
+💻 [GitHub Profile](https://github.com/codewithpatil-droid))  
+✉️ [Email])(babasahebpatil271@gmail.com)
 
 
